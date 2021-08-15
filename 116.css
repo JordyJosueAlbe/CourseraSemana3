@@ -27,7 +27,7 @@ h1 {
 
 .heathen li{
 	display: inline;
-	margin: 180px;
+	margin: 120px;
 }
 .heathen li a{
 	color: yellow;
@@ -60,7 +60,7 @@ h1 {
 
 @media (min-width: 767px) and (max-width:  991px) {
 	.label {
-		width: 44%;	
+		width: 97%;	
 	}
 
 @media (min-width: 992px) {
